@@ -1,0 +1,127 @@
+body {
+	background: url("../images/bg.jpg") ;
+	font:11px/1.55 'Telex', sans-serif ;
+	text-align: center; 
+}
+.page {
+    background:#fff;
+    margin: 0 auto;
+    padding: 20px;
+	width: 960px;
+	    overflow: hidden;
+} 
+header, .contact-info, .logo-img, section, footer{
+margin: 0 1.5% 24px 1.5%;
+}
+footer{
+	    border-top: #BABABA solid 1px;
+    padding-top: 14px;
+    position: relative;
+}
+.logo-img a{
+	display:block;
+}
+.contact-info, .logo-img {
+	width: 30%;
+	float: left;
+	    height: 300px;
+		margin:0;
+} 
+.logo-img{
+	width:35%;
+margin-left: 45px;
+	}
+.contact-info  p{
+	display: block;
+	padding-top: 80px; 
+	text-align: center;
+}
+.u1{
+    line-height: 1.4;
+    color: #7F7F7F;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 400;
+	    font-size: 1.9em;
+}
+nav{
+	clear:both;
+position: relative;
+left: 150px;
+}
+nav a {
+    color: #404040;
+    float: left;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 12px 26px 12px 26px;
+    text-transform: uppercase;
+} 
+section{
+	clear:both;
+}  
+#u18 { 
+    letter-spacing: 2px;
+    color: #7F7F7F;
+    font-size: 15px;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 400;
+} 
+.special {
+    margin-top: 15px; 
+	background:  url(../images/rulonnaya_16_-u2390-fr.png)  ;
+}
+.description{
+	    font-family: "Open Sans", Arial, sans-serif;
+		font-size: 150%;
+		font-weight: 400;
+		margin-bottom:40px;
+		    padding: 0 50px;
+			text-align: center;
+} 
+footer h2{
+	    text-align: left;
+	font-size: 20px;
+    text-transform: uppercase;
+}
+.bl1, .bl2{
+	
+    float: left;
+}
+.bl1{
+	width: 520px; 
+}
+.u2 p{
+	    font-size: 1.4em;
+    text-align: left;
+}
+.bl2{
+	margin-left:20px;
+	width: 380px;
+}
+.frame {
+    background: url(../images/frame.png) ;
+    color: #FFFFFF; 
+    height: 31px;
+    left: 450px;
+    position: absolute;
+    top: -14px;
+    width: 118px;
+}
+ 
+.u2 {
+    width: 520px; 
+}
+.u2 p{
+    text-align:left;
+    font-size: 1.5em;
+}   
+.facebook a { 
+    width: 43px;
+    height: 44px; 
+}
+.soc-pic{
+	float: left;
+    margin-right: 27px;
+}  
